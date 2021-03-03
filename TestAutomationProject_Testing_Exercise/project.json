@@ -1,0 +1,71 @@
+{
+  "name": "TestAutomationProject_Testing_Exercise",
+  "description": "Test Automation Project",
+  "main": "Main.xaml",
+  "dependencies": {
+    "Toolkit.Snippets": "[1.0.5755.26409]",
+    "UiPath.System.Activities": "[20.10.3]",
+    "UiPath.Terminal.Activities": "[2.1.0]",
+    "UiPath.Testing.Activities": "[1.2.5]",
+    "UiPath.UIAutomation.Activities": "[20.10.9]"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "20.10.5.0",
+  "projectVersion": "1.0.68411997",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "isPausable": true,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Tests",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "3da2cfe0-8ff0-48a4-8805-1ae0548298d3",
+        "fileName": ".tmh\\Login\\LoginWithManagerButton.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "397fd89d-a492-4636-9b3d-e9714cbd1493",
+        "fileName": ".tmh\\Login\\newForTrial.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "b3f657f8-abc7-4083-9dec-7f14867cb61b",
+        "fileName": ".tmh\\Logout\\LogoutTestCase.xaml"
+      }
+    ],
+    "modernBehavior": false
+  },
+  "expressionLanguage": "VisualBasic",
+  "entryPoints": [
+    {
+      "filePath": ".tmh\\Login\\LoginWithManagerButton.xaml",
+      "uniqueId": "3da2cfe0-8ff0-48a4-8805-1ae0548298d3",
+      "input": [],
+      "output": []
+    }
+  ],
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {}
+}
